@@ -7,6 +7,11 @@ Help the HR team make data-driven decisions for recruitment, retention, and empl
 
 HR Data Analysis Dashboard (Excel): An interactive Excel dashboard to analyse HR data. Includes pivot tables, charts, and slicers to track key metrics like employee attrition, department-wise count, gender ratio, and average salary for better HR decision-making.
 
+# Dataset Used
+The dataset used for this dashboard is included in the repository.  
+<a href="https://github.com/<your-username>/<your-repo-name>/blob/main/HR%20Data.xlsx?raw=true"> HR Data </a>
+
+
 
 
 # Dashboard image
